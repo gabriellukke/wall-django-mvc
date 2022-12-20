@@ -1,0 +1,5 @@
+env/
+wall/db.sqlite3
+__pycache__
+.env
+
